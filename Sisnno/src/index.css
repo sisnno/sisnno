@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body.claro{
+    background-color: #ffffff;
+}
+
+h2.escuro{
+    color: #FBFCFF;
+}
+
+p.escuro{
+    color: #FBFCFF;
+}
+
+button.escuro{
+    background-color: #EEEEEE4A;
+}
+
+body.escuro{
+    background-color: #181616;
+}
+
+
+
+#caixaThema{
+    width: 95%;
+    margin: 0 auto;
+}
+
+#thema{
+    width:3.5rem;
+}
+
+#titulo{
+    color: #0744EB;
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 5rem;
+}
+
+.centralLogo{
+    margin-top: 2rem;
+    display: grid;
+    justify-content: center;
+    margin-bottom: 6rem;
+
+}
+
+.textoInicio{
+    text-align: center;
+    color: #0744EB;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+
+}
+
+.textoSecundario{
+    text-align: center;
+    color: #0744EB;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#ajusteEntrada{
+    display: flex;
+    flex-direction: column;
+    width: 372px;
+    margin: 0 auto;
+    margin-top: 58px;
+    gap: 14px;
+}
+
+#email{
+    border-radius: 8px;
+    height: 46px;
+    border: 1px solid #E0E0E0;
+    padding: 2px 16px 2px 16px;
+    
+}
+
+
+
+#password{
+    border-radius: 8px;
+    height: 46px;
+    border: 1px solid #E0E0E0;
+    padding: 2px 16px 2px 16px;
+
+}
+
+#botao1{
+    background-color: #0744EB;
+    border-radius: 8px;
+    height: 46px;
+    border: none;
+    padding: 0px 8px 0px 8px;
+}
+
+#textoPrincipalBotaoHome{
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+
+#botao2{
+    border-radius: 8px;
+    padding: 14px 24px 14px 24px;
+    border: none;
+}
+
+#textoSegundoBotaoHome{
+    font-family: "Inter", sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+input::placeholder{
+    color: #828282;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
