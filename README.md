@@ -1,5 +1,3 @@
-Claro, aqui está a atualização do seu perfil:
-
 # 💫 About Me:
 <br>Innovations Soft Solutions é uma empresa focada em inovação e tecnologia, buscando atender os clientes através de soluções inovadoras.<br>Sou um estudante full stack, procurando parceiros para trabalho e projetos na área de TI.<br>Atualmente aprendendo sobre machine learning, reinforcement learning e python.
 
@@ -13,8 +11,6 @@ Claro, aqui está a atualização do seu perfil:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ironhand29&icon=0&color=0)](https://visitcount.itsvg.in)
